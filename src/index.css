@@ -52,6 +52,11 @@
   text-decoration: none;
 }
 
+.blog-preview button{
+  background-color:#f1356d;
+  border-radius: 10%;
+}
+
 
 /* blog details page */
 .blog-details h2 {
