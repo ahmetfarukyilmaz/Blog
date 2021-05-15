@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "First Blog",
-      "body": "First body",
-      "author": "ben",
-      "id": 1
-    },
-    {
       "title": "Second Blog",
       "body": "Second body",
       "author": "sen",
@@ -17,6 +11,24 @@
       "body": "Third body",
       "author": "o",
       "id": 3
+    },
+    {
+      "title": "selam",
+      "body": "aleyküm selam",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "selam",
+      "body": "aleyküm selam",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "Test Blog",
+      "body": "Test Blog Body",
+      "author": "yoshi",
+      "id": 8
     }
   ]
 }
