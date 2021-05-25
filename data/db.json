@@ -1,34 +1,16 @@
 {
   "blogs": [
     {
-      "title": "Second Blog",
-      "body": "Second body",
-      "author": "sen",
-      "id": 2
-    },
-    {
-      "title": "Third Blog",
-      "body": "Third body",
-      "author": "o",
-      "id": 3
-    },
-    {
-      "title": "selam",
-      "body": "aleyküm selam",
-      "author": "yoshi",
-      "id": 5
-    },
-    {
-      "title": "selam",
-      "body": "aleyküm selam",
-      "author": "mario",
-      "id": 7
-    },
-    {
       "title": "Test Blog",
-      "body": "Test Blog Body",
-      "author": "yoshi",
-      "id": 8
+      "body": "This is a test paragraph",
+      "author": "",
+      "id": 1
+    },
+    {
+      "title": "Another Test Blog",
+      "body": "Test blog paragraph",
+      "author": "User2",
+      "id": 2
     }
   ]
 }
