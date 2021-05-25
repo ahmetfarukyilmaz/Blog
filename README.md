@@ -1,13 +1,20 @@
 # Getting Started with Blog App
 
-To run json-server:
+Need to have Node.js to run this app.
+Install from here : [https://nodejs.org]
+
+Install node modules:
+
+### `npm install`
+
+Run json-server:
 
 ### `npx json-server --watch data/db.json --port 8000`
 
 It will run the json-server at port 8000.
 
 
-To run app:
+Run app:
 
 ### `npm start`
 
